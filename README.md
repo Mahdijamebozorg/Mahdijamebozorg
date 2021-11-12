@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Mahdijamebozorg
-- 👀 I’m interested in technology and nature
-- 🌱 I’m currently learning flutter and kotlin
-- 💞️ I’m looking to collaborate on c, c++ and flutter projects
-- 📫 How to reach me : [Telegram](https://t.me/Mahdi_jamebozorg) , [Email](mahdijamebozorg@email.com)
+
 <h1 align="center">Hi 👋, I'm Mahdi</h1>
 <h3 align="center">A computer engineer and programmer from iran</h3>
 
@@ -10,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 👀 I’m interested in technology and nature
+
 - 🔭 I’m currently working on **Some confidential ideas**
 
-- 🌱 I’m currently learning **Flutter and C++**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Mahdijamebozorg](https://github.com/Mahdijamebozorg)
+- 🌱 I’m currently learning **Flutter and android**
 
 - 💬 Ask me about **Flutter, C++, C**
 
