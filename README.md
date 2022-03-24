@@ -6,7 +6,7 @@
 
 - 👀 I’m interested in technology and nature
 
-- 🔭 I’m currently working on **Some confidential ideas**
+- 🔭 I’m currently working on **my ideas**
 
 - 🌱 I’m currently learning **Flutter and android**
 
