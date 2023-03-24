@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Flutter and android**
 
-- 💬 Ask me about **Flutter, C++, C**
+- 💬 Ask me about **Flutter, C++, C** and Qt
 
 - 📫 How to reach me **mahdijamebozorg@email.com**
 
