@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **My ideas**
 
-- 🌱 I’m currently learning **Flutter and android**
+- 🌱 I’m currently learning **ML, DL, Neuroscience and Neural Networks**
 
-- 💬 Ask me about **Flutter, C++, C** and Qt
+- 💬 Ask me about **Flutter, python, C++, C, Qt**
 
 - 📫 How to reach me **mahdijamebozorg@email.com**
 
