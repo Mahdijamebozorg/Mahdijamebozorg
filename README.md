@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Mahdi</h1>
 <h3 align="center">A computer engineer and software developer</h3>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 👀 I’m interested in technology and nature
 
 - 🔭 I’m currently working on **My ideas**
@@ -21,7 +19,7 @@
 <p align="left"> 
   
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahdijamebozorg&show_icons=true&locale=en&layout=compact" alt="mahdijamebozorg" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahdijamebozorg&show_icons=true&locale=en&layout=compact&theme=dark" alt="mahdijamebozorg" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
