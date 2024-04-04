@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **My ideas**
 
-- 🌱 I’m currently learning **ML, DL, Neuroscience and Neural Networks**
+- 🌱 I’m currently learning **Neuroscience and Neural Networks**
 
-- 💬 Ask me about **Flutter, python, C++, C, Qt**
+- 💬 Ask me about **Flutter, Python, C++, C, Qt**
 
 - 📫 How to reach me **mahdijamebozorg@email.com**
 
@@ -20,11 +20,6 @@
   <!--- Flutter --->
   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
-  </a> 
-  
-  <!--- Android --->
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
   </a> 
 
   <!--- Dart --->
@@ -36,11 +31,26 @@
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
   </a> 
+  
+  <!--- Android --->
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
+  </a> 
 
   <!--- Python --->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+  <a href="https://python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
+
+  <!--- Tensorflow --->
+  <a href="https://tensorflow.org" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
+  </a>
+
+  <!--- Pytorch --->
+  <a href="https://www.pytorch.org" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="tensorflow" width="40" height="40"/> 
+  </a>
 
   <!--- C --->
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
@@ -57,19 +67,14 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> 
   </a> 
 
-  <!--- MySQL --->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="SQL" width="40" height="40"/> 
-  </a> 
-
-  <!--- Neo4j --->
-  <a href="https://neo4j.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/neo4j/neo4j-icon.svg" alt="SQL" width="40" height="40"/> 
-  </a> 
-
  <!--- Linux --->
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  </a> 
+
+ <!--- Neo4j --->
+  <a href="https://www.neo4j.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/neo4j/neo4j-icon.svg" alt="linux" width="40" height="40"/> 
   </a> 
   
 <p>
