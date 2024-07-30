@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Mahdi</h1>
-<h3 align="center">A computer engineer and software developer</h3>
+<h3 align="center"> A software engineer and machine learning developer </h3>
 
 - 👀 I’m interested in software, web and ML engineering/development
 
