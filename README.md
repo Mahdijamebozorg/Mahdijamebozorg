@@ -2,11 +2,9 @@
 <h1 align="center">Hi 👋, I'm Mahdi</h1>
 <h3 align="center">A computer engineer and software developer</h3>
 
-- 👀 I’m interested in technology and nature
+- 👀 I’m interested in software, web and ML engineering/development
 
-- 🔭 I’m currently working on **My ideas**
-
-- 🌱 I’m currently learning **Neuroscience and Neural Networks**
+- 🔭 I’m currently working on **Deep learning flutter applications**
 
 - 💬 Ask me about **Flutter, Python, C++, C, Qt**
 
