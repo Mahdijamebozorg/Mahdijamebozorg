@@ -14,7 +14,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,apple,xd,figma,postman,python,tensorflow,pytorch,c,cpp,qt)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,apple,postman,python,tensorflow,pytorch,c,cpp,qt)](https://skillicons.dev)
 
 <p align="left"> 
   
