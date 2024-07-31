@@ -24,3 +24,8 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahdi-jamebozorg-b234b5221" height="30" width="40" />
 </a>
 </p>
+
+
+<p align="center">
+ <img width="1000" src="https://github.com/sammorozov/sammorozov/blob/main/assets/github-snake.svg" alt="snake"/>
+</p>
