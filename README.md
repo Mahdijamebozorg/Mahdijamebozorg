@@ -27,5 +27,5 @@
 
 
 <p align="center">
- <img width="1000" src="https://github.com/sammorozov/sammorozov/blob/main/assets/github-snake.svg" alt="snake"/>
+ <img width="1000" src="https://github.com/Mahdijamebozorg/Mahdijamebozorg/blob/main/github-contribution-grid-snake-dark.svg" alt="snake"/>
 </p>
