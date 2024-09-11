@@ -4,9 +4,9 @@
 
 - 👀 I’m interested in software, web and ML engineering/development
 
-- 🔭 I’m currently working on **Deep learning flutter applications**
+- 🔭 I’m currently working on **Smart and inovative applicaitons**
 
-- 💬 Ask me about **Flutter, Python, C++, C, Qt**
+- 💬 Ask me about **Flutter, Python, Machine learning and Deep learning**
 
 - 📫 How to reach me **mahdijamebozorg2000@gmail.com**
 
