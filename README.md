@@ -12,7 +12,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,apple,postman,python,tensorflow,pytorch,c,cpp,qt)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,kotlin,apple,swift,python,tensorflow,pytorch,c,cpp,qt)](https://skillicons.dev)
   
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahdijamebozorg&show_icons=true&locale=en&layout=compact&theme=dark" alt="mahdijamebozorg" />
